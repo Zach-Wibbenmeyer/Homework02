@@ -34,7 +34,7 @@ import static android.R.attr.id;
  * CS 262 - Software Engineering, Homework2
  * Professor: Keith Vanderlinden
  * Author: Zach Wibbenmeyer
- * Date: October 21, 2016
+ * Date: November 13, 2016
  */
 public class MainActivity extends AppCompatActivity {
 
